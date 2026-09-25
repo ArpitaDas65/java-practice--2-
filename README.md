@@ -1,4 +1,3 @@
-# java-practice--2-
 
 # ☕ Java Practice
 
@@ -14,7 +13,7 @@ A collection of my **Java practice programs** while learning Java fundamentals a
 * Methods & Method Overloading
 * Type Conversion
 * JOptionPane
-* Basic Inheritance
+
 
 ### 🛠️ Tech
 
@@ -22,4 +21,5 @@ A collection of my **Java practice programs** while learning Java fundamentals a
 * JDK
 * VS Code
 
-> Learning Java one concept at a time. 🚀
+> Learning Java one concept at a time.
+> Author: Arpita Das:) 
